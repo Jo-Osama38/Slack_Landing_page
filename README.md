@@ -35,7 +35,4 @@ Check the live demo here: [Hack Club Slack Landing Page](https://slack.hackclub.
 ## 🚀 Getting Started
 
 To run this project locally:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/hackclub-slack-landing.git
+- https://jo-osama38.github.io/Slack_Landing_page/
